@@ -65,6 +65,11 @@ hr,
   color: #F8BB10;
 }
 
+/* Body Text Color */
+.t-text-color {
+	color: #939393;
+}
+
 .t-primary-bg,
 .t-primary-color-line {
   background: #F8BB10;
